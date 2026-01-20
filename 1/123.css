@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(to right, #4b6cb7, #182848);
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-family: Arial;
+}
+
+.box{
+    background:white;
+    padding:25px;
+    width:280px;
+    text-align:center;
+    border-radius:10px;
+    box-shadow:0 0 15px black;
+}
+
+input{
+    width:100%;
+    padding:8px;
+    margin:10px 0;
+}
+
+button{
+    width:45%;
+    padding:8px;
+    margin:5px;
+    cursor:pointer;
+}
